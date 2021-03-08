@@ -6,18 +6,18 @@ type and a multiple-line chart of total fares for each city type.
 
 ## Results
 Reference this chart for results [Result_Chart](https://github.com/josafathpelayo/PyBer_Analysis/blob/main/analysis/Challange_Chart.png)
--Total rides for city type:
-	-Rural had 125 rides per city
-	-Suburban had 625 per city
-	-Urban had 625 per city
+- Total rides for city type:
+	- Rural had 125 rides per city
+	- Suburban had 625 per city
+	- Urban had 625 per city
 
 - Total drivers for city type:
-      - Rural had 78 drivers per city
+      	- Rural had 78 drivers per city
 	- Suburban had 490 drivers city
 	- Urban had 24505 drivers city
 	
 - Total fares for city types:
-      - Rural had a total of  $4,327.93
+ 	- Rural had a total of  $4,327.93
 	- Suburban had a total of $19,356
 	- Urban had a total of $39,854.38
 	
