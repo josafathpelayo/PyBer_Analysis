@@ -1,10 +1,10 @@
 # PyBer_Analysis
 
-##Overview
-The purpose of this analysis is to create a summary DataFrame of the ride-sharing data by city type: urban, suburban, or rural. In doing so,the knowledge of Pandas will be applied to create the DataFrames, and Maptplotlib will also be implemented to visualize the analysis. The main files used for this analysis is ìride_data.csv" andìcity_data.csvî. Our results will display the ride-sharing summary DataFrame by city
+## Overview
+The purpose of this analysis is to create a summary DataFrame of the ride-sharing data by city type: urban, suburban, or rural. In doing so,the knowledge of Pandas will be applied to create the DataFrames, and Maptplotlib will also be implemented to visualize the analysis. The main files used for this analysis is ‚Äúride_data.csv" and‚Äúcity_data.csv‚Äù. Our results will display the ride-sharing summary DataFrame by city
 type and a multiple-line chart of total fares for each city type.
 
-##Results
+## Results
 Reference this chart for results [Result_Chart]()
 -Total rides for city type:
 	-Rural had 125 rides per city
@@ -33,7 +33,7 @@ Average fare per driver:
       - Rural had an average fare per driver of $16.57
 
 ##Summary
-The results show that even though rural cities have the fewest total rides, drivers, and fares, they have the highest average fare per ride and driver. Interestingly, Urban cities has the highest total fare by city type over the span of January through March [Line Graph]( ). Due to this, there needs to be more recruitment of drivers in rural cities and suburban cities as the total rides to total drivers ratio is causing the drivers to get paid more than what they are charging per ride (when looking at average fare per ride and average dare per driver respectfully). Another way is to promote/advertise the service in these suburban and rural cities more to increase the total drivers so that more profits are made per ride and the drivers donít cash in as much. Finally, the company can even use the statistics that was found in the results to recruit drivers that there is money to be made in these rural/suburban cities. In conclusion, urban cities will always have itís total fares high as thereís bigger populations in these cities type, more attention needs to be focused on the other two types to increase the total fares and driver count/employees. 
+The results show that even though rural cities have the fewest total rides, drivers, and fares, they have the highest average fare per ride and driver. Interestingly, Urban cities has the highest total fare by city type over the span of January through March [Line Graph]( ). Due to this, there needs to be more recruitment of drivers in rural cities and suburban cities as the total rides to total drivers ratio is causing the drivers to get paid more than what they are charging per ride (when looking at average fare per ride and average dare per driver respectfully). Another way is to promote/advertise the service in these suburban and rural cities more to increase the total drivers so that more profits are made per ride and the drivers don‚Äôt cash in as much. Finally, the company can even use the statistics that was found in the results to recruit drivers that there is money to be made in these rural/suburban cities. In conclusion, urban cities will always have it‚Äôs total fares high as there‚Äôs bigger populations in these cities type, more attention needs to be focused on the other two types to increase the total fares and driver count/employees. 
       
       
 	
