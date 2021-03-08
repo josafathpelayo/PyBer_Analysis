@@ -12,7 +12,7 @@ Reference this chart for results [Result_Chart](https://github.com/josafathpelay
 	- Urban had 625 per city
 
 - Total drivers for city type:
-- 	- Rural had 78 drivers per city
+ 	- Rural had 78 drivers per city
 	- Suburban had 490 drivers city
 	- Urban had 24505 drivers city
 	
