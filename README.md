@@ -5,7 +5,7 @@ The purpose of this analysis is to create a summary DataFrame of the ride-sharin
 type and a multiple-line chart of total fares for each city type.
 
 ## Results
-Reference this chart for results [Result_Chart]()
+Reference this chart for results [Result_Chart](https://github.com/josafathpelayo/PyBer_Analysis/blob/main/analysis/Challange_Chart.png)
 -Total rides for city type:
 	-Rural had 125 rides per city
 	-Suburban had 625 per city
