@@ -1,7 +1,7 @@
 # PyBer_Analysis
 
 ## Overview
-The purpose of this analysis is to create a summary DataFrame of the ride-sharing data by city type: urban, suburban, or rural. In doing so,the knowledge of Pandas will be applied to create the DataFrames, and Maptplotlib will also be implemented to visualize the analysis. The main files used for this analysis is “ride_data.csv" and“city_data.csv”. Our results will display the ride-sharing summary DataFrame by city
+The purpose of this analysis is to create a summary DataFrame of the ride-sharing data by city type: urban, suburban, or rural. In doing so,the knowledge of Pandas will be applied to create the DataFrames, and Maptplotlib will also be implemented to visualize the analysis. The main files used for this analysis is “ride_data.csv" and “city_data.csv”. Our results will display the ride-sharing summary DataFrame by city
 type and a multiple-line chart of total fares for each city type.
 
 ## Results
@@ -22,12 +22,12 @@ Reference this chart for results [Result_Chart](https://github.com/josafathpelay
 	- Urban had a total of $39,854.38
 	
 
-Average fare per ride:
+- Average fare per ride:
       - Rural had an average fare per ride of $34.62
       - Suburban had an average fare per ride of $30.97
       - Urban had an average fare per ride of $24.52
 	
-Average fare per driver:
+- Average fare per driver:
       - Rural had an average fare per driver of $55.49
       - Rural had an average fare per driver of $39.50
       - Rural had an average fare per driver of $16.57
